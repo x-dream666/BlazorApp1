@@ -40,4 +40,4 @@ jobs:
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         BRANCH: gh-pages
-        FOLDER: release/wwwroot
+        FOLDER: /home/runner/work/BlazorApp1/BlazorApp1/BlazorApp1/bin/Release/net8.0/publish/wwwroot
